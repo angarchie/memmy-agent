@@ -57,7 +57,7 @@ It distills your knowledge, preferences, and project experience into pe
 
 Available as a desktop app, CLI, and API. You can use the same long-term memory whatever the ways you like to use. **Build it once, use it everywhere.**
 
-### 🧠 Cross-Agent Memory Layer
+###  Cross-Agent Memory Layer
 
 Memmy provides a unified personal memory layer for all AI Agents.
 
@@ -270,3 +270,8 @@ The point of open source is to let good ideas flow, and we hope Me
 ## Contributors
 
 Thanks to every contributor who makes Memmy better ❤️
+
+<br>
+<a href="https://github.com/MemTensor/memmy-agent/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=MemTensor/memmy-agent"/>
+</a>
