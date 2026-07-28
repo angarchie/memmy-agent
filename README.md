@@ -26,8 +26,6 @@
 
 <div align="center">
 
-[Docs](https://memmy.bot/docs/) • [Quick Start](#quick-start) • [Core Concepts](#core-concepts) • [Build from Source](#build-from-source)
-
 **English** • [简体中文](README.zh-CN.md)
 
 ![image](docs/assets/banner-en.png)
