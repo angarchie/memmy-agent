@@ -38,7 +38,7 @@ Sign up to get free tokens. Model routing is automatic — start exp
 
 > [!TIP]
 > **Trial credits:** <br>
-> **Registration grants 2,000,000 tokens; you can check your remaining balance and usage inside the app.**
+> **Registration grants ***2,000,000 tokens***; you can check your remaining balance and usage inside the app.**
 > Once the trial credits run out, you can switch to BYOK and use your own model API.
 
 ## What Is Memmy?
