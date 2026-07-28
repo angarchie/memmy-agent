@@ -1,16 +1,34 @@
-# memmy-agent
+ <br>
+<div align="center">
+  <a href="https://memmy.bot/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset=".github/image/dark version.svg">
+      <source media="(prefers-color-scheme: light)" srcset=".github/image/light version.svg">
+      <img alt="Memmy Logo" src=".github/image/dark version.svg" width="50%">
+    </picture>
+  </a>
+</div>
+<br>
+<br>
+<p align="center">
+    <a href="https://memmy.bot/docs/"><img src="https://img.shields.io/badge/Docs-Get--Start-006400?labelColor=gray&style=for-the-badge&logo=googledocs&logoColor=white" alt="Docs"></a>
+    <a href="https://github.com/MemTensor/memmy-agent/releases"><img src="https://img.shields.io/badge/News-ED8D45?labelColor=gray&style=for-the-badge&logo=applenews&logoColor=white" alt="applenews"></a>
+    <a href="https://www.producthunt.com/products/memmy?launch=memmy-agent"><img src="https://img.shields.io/badge/Memmy--Agent-DA552F?labelColor=gray&style=for-the-badge&logo=producthunt&logoColor=white" alt="producthunt"></a>
+    <a href="https://discord.gg/zfhKKn52wP"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Fv10%2Finvites%2FzfhKKn52wP%3Fwith_counts%3Dtrue&query=%24.approximate_presence_count&suffix=%20online&label=Discord&color=404EED&labelColor=gray&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+    <a href="https://x.com/Memmy_ai"><img src="https://img.shields.io/badge/Follow-Memmy-000000?labelColor=gray&style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  </p>
+
+<div align="center">
+  
+## Memmy，让所有AI，都记得同一个你
+
+</div>
+
+<div align="center">
+
+[English](README.md) • **简体中文**
 
 ![image](docs/assets/banner-zh.png)
-
-Memmy，让所有AI，都记得同一个你
-
-它将你的知识、偏好和项目经验沉淀为个人记忆，并让 Cursor、Claude Code、Codex、OpenClaw 等不同 Agent 共享同一份上下文。
-
-提供桌面应用、CLI 和 API，让你以不同方式使用同一套长期记忆。一次积累，多处使用。
-
-[文档](https://memmy.cn/docs/) • [快速开始](#%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B) • [核心概念](#%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5) • [从源码构建](#%E4%BB%8E%E6%BA%90%E7%A0%81%E6%9E%84%E5%BB%BA)
-
-**简体中文** • [English](README.md)
 
 ## 🚀 开始体验 Memmy
 
@@ -26,7 +44,11 @@ Memmy，让所有AI，都记得同一个你
 
 每一次 AI 协作都会产生新的上下文和经验，但这些信息通常被隔离在不同工具和会话中。当你切换 Agent 或工作场景时，新的 AI 又需要重新认识你。
 
-通过 Memmy，Cursor、Claude Code、Codex 等 Agent 可以基于统一上下文持续协作，让 AI 从一次性对话变成长期理解你的 Agent。
+通过 Memmy，Cursor、Claude Code、Codex、OpenClaw、Hermes Agent 等 AI Agent 可以基于统一上下文持续协作，让 AI 从一次性对话变成长期理解你的 Agent。
+
+它将你的知识、偏好和项目经验沉淀为个人记忆，并让不同 Agent 共享同一份上下文。
+
+提供桌面应用、CLI 和 API，让你以不同方式使用同一套长期记忆。一次积累，多处使用。
 
 ### 🧠 跨 Agent 记忆层
 
