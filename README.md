@@ -4,7 +4,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset=".github/image/dark version.svg">
       <source media="(prefers-color-scheme: light)" srcset=".github/image/light version.svg">
-      <img alt="Memmy Logo" src=".github/image/dark version.svg" width="50%">
+      <img alt="Memmy Logo" src=".github/image/light version.svg" width="50%">
     </picture>
   </a>
 </div>
