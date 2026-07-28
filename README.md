@@ -1,4 +1,12 @@
-# memmy-agent
+<div align="center">
+  <a href="https://memmy.bot/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset=".github/images/dark version Memmy.svg">
+      <source media="(prefers-color-scheme: light)" srcset=".github/images/light version Memmy.svg">
+      <img alt="Memmy Logo" src=".github/images/dark version Memmy.svg" width="50%">
+    </picture>
+  </a>
+</div>
 
 ![image](docs/assets/banner-en.png)
 
