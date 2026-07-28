@@ -51,9 +51,9 @@ Switch agents, close a tab, start a new session, and you're re-introd
 
 Memmy fixes that.
 
-With a unified memory layer shared across Cursor, Claude Code, Codex, and more, your agents build on each other's context instead of starting over. One-shot conversations become a long-term working relationship.
+With a unified memory layer shared across Cursor, Claude Code, Codex, OpenClaw 🦞, Hermes Agent and more, your agents build on each other's context instead of starting over. One-shot conversations become a long-term working relationship.
 
-It distills your knowledge, preferences, and project experience into personal memory, and share the same context across every Agents — Cursor, Claude Code, Codex, OpenClaw 🦞, and more.
+It distills your knowledge, preferences, and project experience into personal memory, and share the same context across every Agents.
 
 Available as a desktop app, CLI, and API. You can use the same long-term memory whatever the ways you like to use. **Build it once, use it everywhere.**
 
