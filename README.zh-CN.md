@@ -30,15 +30,15 @@
 
 ![image](docs/assets/banner-zh.png)
 
+</div>
+
 ## 🚀 开始体验 Memmy
 
-点击进入[官网下载](https://memmy.cn/)或者[github release](https://github.com/MemTensor/memmy-agent/releases)下载
-
-注册 Memmy 后，即可获得免费 AI 使用额度，系统会自动进行模型调度，帮助你体验完整的 Memory + Agent Runtime。体验额度：
-
-- 注册赠送 30,000,000 Token，可在应用内查看剩余额度和使用情况
-
-当体验额度用尽后，可切换至 BYOK 模式，使用自己的模型 API。
+> [!TIP]
+> 注册 Memmy 后，即可获得免费 AI 使用额度，系统会自动进行模型调度，帮助你体验完整的 Memory + Agent Runtime。<br>
+> **体验额度：** <br>
+> 注册赠送 ***2,000,000 Tokens***，可在应用内查看剩余额度和使用情况<br>
+> 当体验额度用尽后，可切换至 BYOK 模式，使用自己的模型 API。
 
 ## 什么是 Memmy？
 
